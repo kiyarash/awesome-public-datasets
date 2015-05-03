@@ -423,3 +423,5 @@ Complementary Collections
 * RS.io: `100+ Interesting Data Sets for Statistics <http://rs.io/2014/05/29/list-of-data-sets.html>`_
 * StaTrek: `Leveraging open data to understand urban lives <http://xiaming.me/posts/2014/10/23/leveraging-open-data-to-understand-urban-lives/>`_
 * OpenDataMonitor: `An overview of available open data resources in Europe <http://opendatamonitor.eu>`_
+
+kiarash.s@hotmail.com
