@@ -424,4 +424,11 @@ Complementary Collections
 * StaTrek: `Leveraging open data to understand urban lives <http://xiaming.me/posts/2014/10/23/leveraging-open-data-to-understand-urban-lives/>`_
 * OpenDataMonitor: `An overview of available open data resources in Europe <http://opendatamonitor.eu>`_
 
+Others
+-------------------------
+
+* Datasets for Data Mining and Data Science: `Datasets for Data Mining and Data Science <http://www.kdnuggets.com/datasets/index.html>`_
+* Machine Learning Repository: `Machine Learning Repository <https://archive.ics.uci.edu/ml/datasets.html>`_
+
+
 kiarash.s@hotmail.com
