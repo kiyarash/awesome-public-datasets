@@ -1,7 +1,7 @@
 Awesome Public Datasets
 =======================
 
-This list of public data sources_
+This list of public data sources
 are collected and tidyed from blogs, answers, and user reponses.
 Most of the data sets listed below are free, however, some are not.
 Other amazingly awesome lists can be found in the
