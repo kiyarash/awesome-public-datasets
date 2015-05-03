@@ -1,7 +1,7 @@
 Awesome Public Datasets
 =======================
 
-`This list of public data sources <https://github.com/caesar0301/awesome-public-datasets>`_
+This list of public data sources_
 are collected and tidyed from blogs, answers, and user reponses.
 Most of the data sets listed below are free, however, some are not.
 Other amazingly awesome lists can be found in the
